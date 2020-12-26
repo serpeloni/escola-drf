@@ -12,6 +12,8 @@ https://docs.djangoproject.com/en/2.2/ref/settings/
 
 Token: 1b67aa1bd71222d564bd7009e7fc3313ae4d12bf
 
+Token felicity: a1c350c2533d25538c6bd1b95614d9cf8da94c8e
+
 """
 
 import os
